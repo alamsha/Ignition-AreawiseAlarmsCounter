@@ -9,3 +9,6 @@ Ubuntu 18.04
 
 Java -- openjdk version "1.8.0_181"
 
+![](https://github.com/alamsha/Ignition-AreawiseAlarmsCounter/blob/master/Areawise%20Alarms.png)
+
+
